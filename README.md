@@ -14,6 +14,6 @@ Make sure that the implementation is at least [ERC20 compatible](https://github.
 
 #### Fiat currencies prices are controlled by national banks
 
-The blockchain needs a mechanism that stirs the shadow currency in much of the same fashion as a national bank: by selling or buying the coin in such a fashion that the price is kept in sync with the fiat currency. Keeping up with the market would not be hard if first a tick of one day is first resolved. If more computing power is available: before any transaction with external chains is performed: perform the price-fixing transactions. Ideally the commit of this group of transactions should take less time than a currency exchange market tick.
+The blockchain needs a mechanism that stirs the shadow currency in much of the same fashion as a national bank: by selling or buying the coin in such a fashion that the price is kept in sync with the fiat currency. Keeping up with the market would not be hard if first a tick of one day is first resolved. If more computing power is available: before any transaction with external chains is performed: perform the price-fixing transactions. Ideally the commit of this group of transactions should take less time than a fiat currency exchange market tick.
 
 
